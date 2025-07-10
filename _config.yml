@@ -23,9 +23,9 @@ theme_config:
 sass:
   style: compressed
 
-#plugins:
-  #- jekyll-feed
-  #- jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
   #- jektex
 
 #jektex:
