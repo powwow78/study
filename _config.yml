@@ -1,8 +1,8 @@
-title: no style, please! # name of the site
-author: Riccardo Graziosi # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
-url: https://riggraz.dev # root address of the site
-baseurl: "/no-style-please" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+title: 파우와우의 공부 로그 # name of the site
+author: powwow # name of site's author
+email: wwo01020304@gmail.com # email of site's author
+url: https://study.powwow787.xyz # root address of the site
+baseurl: "/study" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
